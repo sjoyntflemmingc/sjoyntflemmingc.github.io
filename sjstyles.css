@@ -1,5 +1,5 @@
 <style>
-<!-- This was inspired by w3schools.com example for a nav bar-->
+<!-- "This was inspired by w3schools.com's CSS code examples, with my edits and changes. -->
 body {
   margin: 0;
   font-family: Verdana, Helvetica, sans-serif;
@@ -63,6 +63,8 @@ body {
   margin-right: auto;
   width: 40%;
 }
+.img4 {
+  
 	
 
 </style>
