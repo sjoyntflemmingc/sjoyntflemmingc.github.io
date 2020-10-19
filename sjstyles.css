@@ -3,7 +3,7 @@
 body {
   margin: 0;
   font-family: Verdana, Helvetica, sans-serif;
-  background-color: #F0FFF0;
+  
   
   
 }
@@ -31,4 +31,6 @@ body {
   background-color: #4CAF50;
   color: white;
 }
+.div {
+  background-color: #F0FFF0;
 </style>
