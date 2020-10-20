@@ -1,5 +1,5 @@
-<style>
-<!-- "This was inspired by w3schools.com's CSS code examples, with my edits and changes. -->
+
+/* CSS inspired by w3schools.com base CSS code, with my edits and modifications for my own work*/
 body {
   margin: 0;
   font-family: Verdana, Helvetica, sans-serif;
@@ -10,6 +10,7 @@ body {
 .body {
  background-color:honeydew
 }
+/* The TopNav CSS below is a modified version of w3schools CSS Nav Bar code*/
 .topnav {
   overflow: hidden;
   background-color: green;
@@ -33,16 +34,18 @@ body {
   background-color: #4CAF50;
   color: white;
 }
+/* These image css are to format where the pictures should be place on the website*/
 .img1 {
  float:right;
  }
 .img2 {
  float:left;
 }
-
+/* clearfix helps with overlap between block elements and my images*/
 .clearfix {
  overflow:auto;
 }
+/* This CSS modifies text layout on my page*/
 .right {
   float: right;
   width: 300px;
@@ -56,15 +59,10 @@ body {
  border: 5px solid black;
  padding: 10px;
 }
-
+/* This CSS centers the image on the middle of the page and turns it into a block element.*/
 .img3 {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 40%;
 }
-.img4 {
-  
-	
-
-</style>
